@@ -1,0 +1,6 @@
+wget-log
+
+.ipynb_checkpoints/
+venv/
+main.zip.*
+chapter0_fundamentals/
