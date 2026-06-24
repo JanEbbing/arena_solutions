@@ -4,3 +4,4 @@ wget-log
 venv/
 main.zip.*
 chapter0_fundamentals/
+chapter1_transformer_interp/
